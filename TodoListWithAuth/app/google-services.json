@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "228949103511",
+    "firebase_url": "https://androidfirebasepractice.firebaseio.com",
+    "project_id": "androidfirebasepractice",
+    "storage_bucket": "androidfirebasepractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228949103511:android:e716fb25af4381bb",
+        "android_client_info": {
+          "package_name": "com.chautnguyen.todolistwithauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228949103511-rfbm9vlkvgso5d9ql79q4vaq5lofurut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34lPCqnYNfzfAmD1_wEAGwlgwgPlATz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
